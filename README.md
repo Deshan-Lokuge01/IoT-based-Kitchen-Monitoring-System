@@ -39,6 +39,8 @@ This ESP32-based system revolutionizes kitchen safety through:
 ## 🛠️ Methodology  
 
 ### Hardware Components  
+<div align="center">
+  
 | Component | Purpose |  
 |-----------|---------|  
 | NodeMCU ESP32 | Main controller & WiFi interface |  
@@ -46,7 +48,9 @@ This ESP32-based system revolutionizes kitchen safety through:
 | MQ-135 | Gas leak detection |  
 | OLED Display | Local data visualization |  
 | Relay Module | Appliance control |  
-| Buzzer | Audible alarms |  
+| Buzzer | Audible alarms | 
+
+</div>
 
 ### Software Stack  
 - **ESP-IDF** for firmware development  
