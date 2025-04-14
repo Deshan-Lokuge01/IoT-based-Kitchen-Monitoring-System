@@ -1,5 +1,10 @@
-# 🏠 Smart Kitchen Monitoring System  
-**IoT-Based Safety Solution using ESP32**  
+<div align="center">
+
+# 🏠 Smart Kitchen Monitoring System
+
+ IoT-Based Safety Solution using ESP32
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Microcontroller-ESP32-blue?logo=espressif">
